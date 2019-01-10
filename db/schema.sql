@@ -1,8 +1,8 @@
 -- DATA SCHEMA
 
-CREATE DATABASE burgers_db;
+CREATE DATABASE sequelized_burgers_db;
 
-USE burgers_db;
+USE sequelized_burgers_db;
 
 CREATE TABLE burgers
 (
